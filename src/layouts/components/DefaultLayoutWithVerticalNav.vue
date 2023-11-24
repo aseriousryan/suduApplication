@@ -102,14 +102,14 @@ const upgradeBanner = computed(() => {
         :item="{
           title: 'Schedule',
           icon: 'mdi-align-horizontal-left',
-          to: '/login',
+          to: '/comingsoon',
         }"
       />
       <VerticalNavLink
         :item="{
           title: 'Template',
           icon: 'mdi-arrange-send-backward',
-          to: '/login',
+          to: '/comingsoon2',
         }"
       />
       <!--
